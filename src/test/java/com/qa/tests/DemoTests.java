@@ -7,6 +7,6 @@ public class DemoTests {
 	@Test
 	public void sum() {
 		
-		System.out.println("Sum is this");
+		System.out.println("Sum is this on QA branch");
 	}
 }
