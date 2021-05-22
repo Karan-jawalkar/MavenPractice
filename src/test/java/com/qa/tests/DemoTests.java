@@ -7,6 +7,6 @@ public class DemoTests {
 	@Test
 	public void sum() {
 		
-		System.out.println("Sum is");
+		System.out.println("Sum is this");
 	}
 }
